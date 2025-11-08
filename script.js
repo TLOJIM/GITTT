@@ -1,4 +1,4 @@
-const mice (a,b){
+jhkjhjhkjhjhconst mice (a,b){
    return a + b;
 
 
